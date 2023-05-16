@@ -17,6 +17,7 @@
 
 ### View PR
 - [TVING 뷰 #1](https://grave-paint-a3c.notion.site/TVING-1-ba373e0af9be493ab1fabefbaf9b855a)
+- [TVING 뷰 #2](https://grave-paint-a3c.notion.site/TVING-2-7d37e7a0cb8a46fb886dfbae9bb04387)
 
 
 
