@@ -8,6 +8,7 @@
 - [init & deinit](https://grave-paint-a3c.notion.site/init-deinit-296ae61f0d894c9aa3c28e561f0f5d61)
 - [옵셔널 체이팅 & nil 병합 연산자](https://grave-paint-a3c.notion.site/nil-7ea1261a9d954b48b7eff6010dafbcd2)
 - [ststic func & class func](https://grave-paint-a3c.notion.site/static-func-class-func-fd177cb8f8e34c96aeb325f50d300be9)
+- [didSet](https://grave-paint-a3c.notion.site/didSet-2183a30ca35f4d069f992e056ca045a6)
 
 
 
