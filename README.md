@@ -24,6 +24,7 @@
 
 ## 🦍 Github 
 - [1-1. 깃이 어려운이유와 용어](https://grave-paint-a3c.notion.site/2-1-1-e8c36b73481d47c09440cde3e5655b50)
+- [1-2. 현실 예시로 보는 Git 파일 관리 방식](https://grave-paint-a3c.notion.site/2-1-2-Git-af705e99725d4d6492c77f44fa95ba3f)
 
 ## 🌊 Algorithm
 - [#11720 / 아스키 코드 값을 활용한 문자와 숫자 변환](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
