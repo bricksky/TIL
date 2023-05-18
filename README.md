@@ -14,6 +14,7 @@
 
 ### UI Kit
 - [tableView(ViewForHeaderInSection)](https://grave-paint-a3c.notion.site/tableView-_-viewForHeaderInSection-f88659f3550f462393ad7b6aa93d884d)
+- [forHeaderFooterViewReuseIdentifier](https://grave-paint-a3c.notion.site/forHeaderFooterViewReuseIdentifier-686950072d5e4fafb698d45d88cb107a)
 
 
 ### View PR
