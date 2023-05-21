@@ -9,6 +9,7 @@
 - [옵셔널 체이팅 & nil 병합 연산자](https://grave-paint-a3c.notion.site/nil-7ea1261a9d954b48b7eff6010dafbcd2)
 - [ststic func & class func](https://grave-paint-a3c.notion.site/static-func-class-func-fd177cb8f8e34c96aeb325f50d300be9)
 - [didSet](https://grave-paint-a3c.notion.site/didSet-2183a30ca35f4d069f992e056ca045a6)
+- [Value Type과 Reference Type의 차이](https://grave-paint-a3c.notion.site/Value-Type-Reference-Type-adbfe5147e87438c94a8c642f78ad6b5)
 
 
 
