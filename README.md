@@ -13,6 +13,7 @@
 - [didSet](https://grave-paint-a3c.notion.site/didSet-2183a30ca35f4d069f992e056ca045a6)
 - [Value Type과 Reference Type의 차이](https://grave-paint-a3c.notion.site/Value-Type-Reference-Type-adbfe5147e87438c94a8c642f78ad6b5)
 - [캡쳐 리스트](https://grave-paint-a3c.notion.site/12cdcd0adbf84da6b84fd350369f2609)
+- [프로토콜](https://grave-paint-a3c.notion.site/a24356a573d341efaf1397ed0bafa874)
 - [static func & class func](https://grave-paint-a3c.notion.site/static-func-class-func-fd177cb8f8e34c96aeb325f50d300be9)
 - [타입 에일리어스: Type Alias](https://grave-paint-a3c.notion.site/Typealias-b56f1b8b6e43418391aa00072eff9dec)
 - [타입 캐스팅](https://grave-paint-a3c.notion.site/f982e62a823e471fbc924e2b53e732af)
