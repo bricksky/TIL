@@ -17,6 +17,7 @@
 - [static func & class func](https://grave-paint-a3c.notion.site/static-func-class-func-fd177cb8f8e34c96aeb325f50d300be9)
 - [타입 에일리어스: Type Alias](https://grave-paint-a3c.notion.site/Typealias-b56f1b8b6e43418391aa00072eff9dec)
 - [타입 캐스팅](https://grave-paint-a3c.notion.site/f982e62a823e471fbc924e2b53e732af)
+- [메모리 상에서 함수의 동작 순서](https://grave-paint-a3c.notion.site/75a1f8674708474689b19cecedb5e4fb)
 
 
 ### UI Kit
