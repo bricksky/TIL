@@ -19,7 +19,6 @@
 - [타입 캐스팅](https://grave-paint-a3c.notion.site/f982e62a823e471fbc924e2b53e732af)
 
 
-
 ### UI Kit
 - [tableView(ViewForHeaderInSection)](https://grave-paint-a3c.notion.site/tableView-_-viewForHeaderInSection-f88659f3550f462393ad7b6aa93d884d)
 - [forHeaderFooterViewReuseIdentifier](https://grave-paint-a3c.notion.site/forHeaderFooterViewReuseIdentifier-686950072d5e4fafb698d45d88cb107a)
@@ -30,6 +29,9 @@
 - [UITableView에 Placeholder 올리기](https://grave-paint-a3c.notion.site/UI-TableView-PlaceHolder-82140a32e2304f04bcfd565ce0cf7fe4)
 - [UITextView에 Placeholder 올리기](https://grave-paint-a3c.notion.site/UITextView-Placeholder-c2afc01084e541af8c467f8ce4632ecb)
 
+
+### Article
+- [메모리 관리 및 저장방식 이해하기: 값 타입과 참조 타입 비교](https://grave-paint-a3c.notion.site/815b7cd41ea542218db53e3b687fe6d7)
 
 ### View PR
 - [TVING 뷰 #1](https://grave-paint-a3c.notion.site/TVING-1-ba373e0af9be493ab1fabefbaf9b855a)
