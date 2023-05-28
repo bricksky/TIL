@@ -3,18 +3,17 @@
 
 ## 🍎 Swift 
 ### Grammer
-- [private lazy var & private let](https://grave-paint-a3c.notion.site/private-lazy-var-private-let-f40e80ef047242728ed4a3c7520599ff)
 - [옵셔널 : Optional](https://grave-paint-a3c.notion.site/Optional-72e98340d26541d2a5aee556ec8fd311)
+- [private lazy var & private let](https://grave-paint-a3c.notion.site/private-lazy-var-private-let-f40e80ef047242728ed4a3c7520599ff)
 - [상속](https://grave-paint-a3c.notion.site/ee064e77a6cb47a78979d99fd987089e)
-- [제네릭 : Genric ](https://grave-paint-a3c.notion.site/Genric-9a6ab4b74dd24169b4971b60865e7cb5)
 - [init & deinit](https://grave-paint-a3c.notion.site/init-deinit-296ae61f0d894c9aa3c28e561f0f5d61)
+- [Value Type과 Reference Type의 차이](https://grave-paint-a3c.notion.site/Value-Type-Reference-Type-adbfe5147e87438c94a8c642f78ad6b5)
 - [옵셔널 체이팅 & nil 병합 연산자](https://grave-paint-a3c.notion.site/nil-7ea1261a9d954b48b7eff6010dafbcd2)
 - [ststic func & class func](https://grave-paint-a3c.notion.site/static-func-class-func-fd177cb8f8e34c96aeb325f50d300be9)
 - [didSet](https://grave-paint-a3c.notion.site/didSet-2183a30ca35f4d069f992e056ca045a6)
-- [Value Type과 Reference Type의 차이](https://grave-paint-a3c.notion.site/Value-Type-Reference-Type-adbfe5147e87438c94a8c642f78ad6b5)
+- [제네릭 : Genric](https://grave-paint-a3c.notion.site/Genric-9a6ab4b74dd24169b4971b60865e7cb5)
 - [캡쳐 리스트](https://grave-paint-a3c.notion.site/12cdcd0adbf84da6b84fd350369f2609)
 - [프로토콜](https://grave-paint-a3c.notion.site/a24356a573d341efaf1397ed0bafa874)
-- [static func & class func](https://grave-paint-a3c.notion.site/static-func-class-func-fd177cb8f8e34c96aeb325f50d300be9)
 - [타입 에일리어스: Type Alias](https://grave-paint-a3c.notion.site/Typealias-b56f1b8b6e43418391aa00072eff9dec)
 - [타입 캐스팅](https://grave-paint-a3c.notion.site/f982e62a823e471fbc924e2b53e732af)
 - [메모리 상에서 함수의 동작 순서](https://grave-paint-a3c.notion.site/75a1f8674708474689b19cecedb5e4fb)
@@ -37,6 +36,7 @@
 ### View PR
 - [TVING 뷰 #1](https://grave-paint-a3c.notion.site/TVING-1-ba373e0af9be493ab1fabefbaf9b855a)
 - [TVING 뷰 #2](https://grave-paint-a3c.notion.site/TVING-2-7d37e7a0cb8a46fb886dfbae9bb04387)
+- [TVING 뷰 #3](https://grave-paint-a3c.notion.site/TVING-3-eafd3ac2f7ab41c4a001f6e88ae71b03)
 
 
 
