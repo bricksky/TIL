@@ -42,9 +42,10 @@
 - [1-2. 현실 예시로 보는 Git 파일 관리 방식](https://grave-paint-a3c.notion.site/2-1-2-Git-af705e99725d4d6492c77f44fa95ba3f)
 - [1-3. 깃의 3가지 영역 4가지 상태](https://grave-paint-a3c.notion.site/2-1-3-3-4-5479e2a7cef74e4c99d6abbad38d27ec)
 - [2-1. branch and switch](https://grave-paint-a3c.notion.site/2-2-1-branch-and-switch-87ff4974137d493689393cb8ec095b3b)
-- [2-2 merge & conflict](https://grave-paint-a3c.notion.site/2-2-2-merge-conflict-df54c618ff8540c29c3fb23993296aa5)
-- [3-1 reset 알아보기](https://grave-paint-a3c.notion.site/2-3-1-reset-ec9daeab4469410faa38555c87fa0235)
-- [3-2 커밋 상대 참조, reset 의 단점](https://grave-paint-a3c.notion.site/2-3-2-reset-edec85a978b04275be79b3b8f1b913cf)
+- [2-2. merge & conflict](https://grave-paint-a3c.notion.site/2-2-2-merge-conflict-df54c618ff8540c29c3fb23993296aa5)
+- [3-1. reset 알아보기](https://grave-paint-a3c.notion.site/2-3-1-reset-ec9daeab4469410faa38555c87fa0235)
+- [3-2. 커밋 상대 참조, reset 의 단점](https://grave-paint-a3c.notion.site/2-3-2-reset-edec85a978b04275be79b3b8f1b913cf)
+- [3-3. revert](https://grave-paint-a3c.notion.site/2-3-3-revert-6fe4a2448cd74481ac276a186c7d3765)
 
 ## 🌊 Algorithm
 - [#11720 / 아스키 코드 값을 활용한 문자와 숫자 변환](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
