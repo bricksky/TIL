@@ -43,6 +43,7 @@
 - [1-3. 깃의 3가지 영역 4가지 상태](https://grave-paint-a3c.notion.site/2-1-3-3-4-5479e2a7cef74e4c99d6abbad38d27ec)
 - [2-1. branch and switch](https://grave-paint-a3c.notion.site/2-2-1-branch-and-switch-87ff4974137d493689393cb8ec095b3b)
 - [2-2 merge & conflict](https://grave-paint-a3c.notion.site/2-2-2-merge-conflict-df54c618ff8540c29c3fb23993296aa5)
+- [3-1 reset 알아보기](https://grave-paint-a3c.notion.site/2-3-1-reset-ec9daeab4469410faa38555c87fa0235)
 
 ## 🌊 Algorithm
 - [#11720 / 아스키 코드 값을 활용한 문자와 숫자 변환](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
