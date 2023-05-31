@@ -35,7 +35,8 @@
 
 ### Article
 - [메모리 관리 및 저장방식 이해하기: 값 타입과 참조 타입 비교](https://grave-paint-a3c.notion.site/815b7cd41ea542218db53e3b687fe6d7)
-- [Delegate 패턴 의 모든 것](https://grave-paint-a3c.notion.site/Delegate-6a2330c1baa748a296fb2ff647eb3eb2)
+- [Delegate 패턴의 모든 것](https://grave-paint-a3c.notion.site/Delegate-6a2330c1baa748a296fb2ff647eb3eb2)
+- [let과 lazy var: 메모리 효율성을 고려한 변수 사용](https://grave-paint-a3c.notion.site/let-lazy-var-9ce326a24df54c2c851392b315d3c22a)
 
 ### View PR
 - [TVING 뷰 #1](https://grave-paint-a3c.notion.site/TVING-1-ba373e0af9be493ab1fabefbaf9b855a)
