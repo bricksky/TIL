@@ -6,7 +6,7 @@
 - [타입 메서드](https://grave-paint-a3c.notion.site/61533898da6044aca20ec974ed68d571)
 - [옵셔널](https://grave-paint-a3c.notion.site/Optional-72e98340d26541d2a5aee556ec8fd311)
 - [구조체](https://grave-paint-a3c.notion.site/struct-a4c3c735350b48e090a28de1f2111736)
-- [private lazy var & private let](https://grave-paint-a3c.notion.site/private-lazy-var-private-let-f40e80ef047242728ed4a3c7520599ff)
+- [private lazy var & private let](https://grave-paint-a3c.notion.site/private-lazy-var-private-let-979fa7f7ea7d4b75a760a02f70475390)
 - [익스텐션](https://grave-paint-a3c.notion.site/a254e0bfe802401a890237f455f25d95)
 - [상속](https://grave-paint-a3c.notion.site/ee064e77a6cb47a78979d99fd987089e)
 - [init & deinit](https://grave-paint-a3c.notion.site/init-deinit-296ae61f0d894c9aa3c28e561f0f5d61)
