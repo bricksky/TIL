@@ -1,8 +1,9 @@
 # TIL
-하루하루 배우고 깨달은 것들을 공유하는 공간입니다.
+하루하루 배우고 깨달은 것들을 공유하는 공간입니다. 
 
 ## 🍎 Swift 
 ### Grammer
+- [타입 메서드](https://grave-paint-a3c.notion.site/61533898da6044aca20ec974ed68d571)
 - [옵셔널](https://grave-paint-a3c.notion.site/Optional-72e98340d26541d2a5aee556ec8fd311)
 - [구조체](https://grave-paint-a3c.notion.site/struct-a4c3c735350b48e090a28de1f2111736)
 - [private lazy var & private let](https://grave-paint-a3c.notion.site/private-lazy-var-private-let-f40e80ef047242728ed4a3c7520599ff)
