@@ -55,6 +55,7 @@
 - [3-2. 커밋 상대 참조, reset 의 단점](https://grave-paint-a3c.notion.site/2-3-2-reset-edec85a978b04275be79b3b8f1b913cf)
 - [3-3. revert](https://grave-paint-a3c.notion.site/2-3-3-revert-6fe4a2448cd74481ac276a186c7d3765)
 - [3-4. reflog, 강제 push pull](https://grave-paint-a3c.notion.site/2-3-4-reflog-push-pull-57b90583ab10479480d57f00784df762)
+- [4-1. origin & upstream](https://grave-paint-a3c.notion.site/2-4-1-origin-upstream-6a7c927bbd6e458886b28d9f2ef899c2?pvs=4)
 
 ## 🌊 Algorithm
 - [#11720 / 아스키 코드 값을 활용한 문자와 숫자 변환](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
