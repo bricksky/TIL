@@ -8,6 +8,7 @@
 - [구조체](https://grave-paint-a3c.notion.site/struct-a4c3c735350b48e090a28de1f2111736)
 - [private lazy var & private let](https://grave-paint-a3c.notion.site/private-lazy-var-private-let-979fa7f7ea7d4b75a760a02f70475390)
 - [익스텐션](https://grave-paint-a3c.notion.site/a254e0bfe802401a890237f455f25d95)
+- [클로저](https://grave-paint-a3c.notion.site/closure-bd42afcfb3364a8295274c8655ded55f?pvs=4)
 - [상속](https://grave-paint-a3c.notion.site/ee064e77a6cb47a78979d99fd987089e)
 - [init & deinit](https://grave-paint-a3c.notion.site/init-deinit-296ae61f0d894c9aa3c28e561f0f5d61)
 - [Value Type과 Reference Type의 차이](https://grave-paint-a3c.notion.site/Value-Type-Reference-Type-adbfe5147e87438c94a8c642f78ad6b5)
