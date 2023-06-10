@@ -10,6 +10,7 @@
 - [타입 메서드](https://grave-paint-a3c.notion.site/61533898da6044aca20ec974ed68d571)
 - [private lazy var & private let](https://grave-paint-a3c.notion.site/private-lazy-var-private-let-979fa7f7ea7d4b75a760a02f70475390)
 - [익스텐션](https://grave-paint-a3c.notion.site/a254e0bfe802401a890237f455f25d95)
+- [프로퍼티](https://grave-paint-a3c.notion.site/property-ba3ac59786be41f9ae90b1fe6eb7d57b?pvs=4)
 - [클로저](https://grave-paint-a3c.notion.site/closure-bd42afcfb3364a8295274c8655ded55f?pvs=4)
 - [상속](https://grave-paint-a3c.notion.site/ee064e77a6cb47a78979d99fd987089e)
 - [init & deinit](https://grave-paint-a3c.notion.site/init-deinit-296ae61f0d894c9aa3c28e561f0f5d61)
