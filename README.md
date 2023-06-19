@@ -25,6 +25,7 @@
 - [프로토콜](https://grave-paint-a3c.notion.site/a24356a573d341efaf1397ed0bafa874)
 - [타입 에일리어스](https://grave-paint-a3c.notion.site/Typealias-b56f1b8b6e43418391aa00072eff9dec)
 - [타입 캐스팅](https://grave-paint-a3c.notion.site/f982e62a823e471fbc924e2b53e732af?pvs=4)
+- [튜플](https://grave-paint-a3c.notion.site/2444c63c6b9441488c26c3c72c6568a2?pvs=4)
 - [메모리 상에서 함수의 동작 순서](https://grave-paint-a3c.notion.site/75a1f8674708474689b19cecedb5e4fb)
 
 
