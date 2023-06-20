@@ -4,6 +4,7 @@
 ## 🍎 Swift 
 ### Grammer
 - [옵셔널](https://grave-paint-a3c.notion.site/Optional-72e98340d26541d2a5aee556ec8fd311)
+- [컬렉션 타입](https://grave-paint-a3c.notion.site/942642f62a3245ff8e87a45a293fa507?pvs=4)
 - [구조체](https://grave-paint-a3c.notion.site/struct-a4c3c735350b48e090a28de1f2111736)
 - [클래스](https://grave-paint-a3c.notion.site/class-c43c154060ae43169c54223eab73e065?pvs=4)
 - [열거형](https://grave-paint-a3c.notion.site/enum-d87be63c86614a16b8ef45b708e2c868?pvs=4)
