@@ -21,6 +21,7 @@
 - [옵셔널 체이팅 & nil 병합 연산자](https://grave-paint-a3c.notion.site/nil-7ea1261a9d954b48b7eff6010dafbcd2)
 - [ststic func & class func](https://grave-paint-a3c.notion.site/static-func-class-func-fd177cb8f8e34c96aeb325f50d300be9)
 - [didSet](https://grave-paint-a3c.notion.site/didSet-2183a30ca35f4d069f992e056ca045a6)
+- [클래스 vs 구조체 / 열거형](https://grave-paint-a3c.notion.site/vs-60f2a9fa7c314ad89db7cab506173f2c?pvs=4)
 - [제네릭](https://grave-paint-a3c.notion.site/Genric-9a6ab4b74dd24169b4971b60865e7cb5)
 - [캡쳐 리스트](https://grave-paint-a3c.notion.site/12cdcd0adbf84da6b84fd350369f2609)
 - [프로토콜](https://grave-paint-a3c.notion.site/a24356a573d341efaf1397ed0bafa874)
