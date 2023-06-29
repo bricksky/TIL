@@ -22,7 +22,7 @@ class FloatingViewController: UIViewController {
     // 클릭 이후 배경
     lazy var clickedbackgroundView: UIView = {
         let view = UIView(frame: self.view.frame)
-        view.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 0.8)
+        view.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 0.3)
         view.isHidden = true
         self.view.insertSubview(view, belowSubview: self.floatingButton)
         return view
@@ -100,19 +100,36 @@ class FloatingViewController: UIViewController {
         }
     }
     
-//    @objc
-//    func floatingButtonTapped(){
-//        stackView.isHidden = false
-//        basicbackgroundView.isHidden = false
-//        print("plus버튼 클릭!!!")
-//    }
+    // clickedbackgroundView를 불러온 첫번째 방법
+    //    @objc
+    //    func floatingButtonTapped(){
+    //        stackView.isHidden = !stackView.isHidden
+    //        clickedbackgroundView.isHidden = !clickedbackgroundView.isHidden
+    //        print("plus버튼 클릭!!!")
+    //    }
     
-    
-    
+    // clickedbackgroundView를 불러온 두번째 방법
     @objc
     func floatingButtonTapped(){
         stackView.isHidden = !stackView.isHidden
+        clickedbackgroundView.isHidden = !clickedbackgroundView.isHidden
+        
         print("plus버튼 클릭!!!")
+        
+        UIView.animate(withDuration: 0.5) {
+            if self.clickedbackgroundView.isHidden {
+                self.clickedbackgroundView.alpha = 0
+            } else {
+                self.clickedbackgroundView.alpha = 1
+            }
+        }
+        
+        let rotationAngle = CGFloat.pi / 2
+        UIView.animate(withDuration: 0.3) {
+//            self.floatingButton.transform = CGAffineTransform(rotationAngle: rotationAngle)
+            self.floatingButton.transform = self.floatingButton.transform.rotated(by: rotationAngle)
+        }
     }
-
 }
+
+
