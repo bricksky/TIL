@@ -9,6 +9,7 @@
 - [클래스](https://grave-paint-a3c.notion.site/class-c43c154060ae43169c54223eab73e065?pvs=4)
 - [열거형](https://grave-paint-a3c.notion.site/enum-d87be63c86614a16b8ef45b708e2c868?pvs=4)
 - [타입 메서드](https://grave-paint-a3c.notion.site/61533898da6044aca20ec974ed68d571)
+- [override](https://grave-paint-a3c.notion.site/override-623e880f55214ba9aeaf8354e675d82c?pvs=4)
 - [assert & guard](https://grave-paint-a3c.notion.site/assert-guard-675b0eb675834c299f5ca7b0a58e62d8?pvs=4)
 - [private lazy var & private let](https://grave-paint-a3c.notion.site/private-lazy-var-private-let-979fa7f7ea7d4b75a760a02f70475390)
 - [익스텐션](https://grave-paint-a3c.notion.site/a254e0bfe802401a890237f455f25d95)
