@@ -14,6 +14,7 @@
 - [private lazy var & private let](https://grave-paint-a3c.notion.site/private-lazy-var-private-let-979fa7f7ea7d4b75a760a02f70475390)
 - [익스텐션](https://grave-paint-a3c.notion.site/a254e0bfe802401a890237f455f25d95)
 - [프로퍼티](https://grave-paint-a3c.notion.site/property-ba3ac59786be41f9ae90b1fe6eb7d57b?pvs=4)
+- [일급객체 성질](https://grave-paint-a3c.notion.site/dab840cc2cad4de4acefc94b7a249181?pvs=4)
 - [클로저](https://grave-paint-a3c.notion.site/closure-bd42afcfb3364a8295274c8655ded55f?pvs=4)
 - [상속](https://grave-paint-a3c.notion.site/ee064e77a6cb47a78979d99fd987089e)
 - [캐스팅](https://grave-paint-a3c.notion.site/3dfc666ec5fa46efa45d177a130df7ac?pvs=4)
