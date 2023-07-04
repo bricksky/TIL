@@ -23,7 +23,6 @@ class ViewController: UIViewController {
         
         let querys = [term, media]
         urlComponent.queryItems = querys
-        
         return urlComponent
     }()
     
@@ -37,12 +36,13 @@ class ViewController: UIViewController {
     }
 }
 
-enum MediaType {
+enum MediaType: Int, CaseIterable {
     case movie
     case podcast
     case music
     case musicVideo
     case tvShow
+
     
     var queryValue: String {
         return "\(self)"
