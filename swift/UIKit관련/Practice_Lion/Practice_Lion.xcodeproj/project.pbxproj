@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D34E6E0F2A57DB4900CE29D0 /* ChallengeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34E6E0E2A57DB4900CE29D0 /* ChallengeViewController.swift */; };
 		D3A3473E2A4046C4000DA27B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A3473D2A4046C4000DA27B /* AppDelegate.swift */; };
 		D3A347402A4046C4000DA27B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A3473F2A4046C4000DA27B /* SceneDelegate.swift */; };
 		D3A347422A4046C4000DA27B /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A347412A4046C4000DA27B /* FirstViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D34E6E0E2A57DB4900CE29D0 /* ChallengeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeViewController.swift; sourceTree = "<group>"; };
 		D3A3473A2A4046C4000DA27B /* Practice_Lion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Practice_Lion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3A3473D2A4046C4000DA27B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D3A3473F2A4046C4000DA27B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				D3A347572A404D70000DA27B /* UIView+.swift */,
 				D3A347412A4046C4000DA27B /* FirstViewController.swift */,
 				D3A3475A2A405ABF000DA27B /* SecondViewController.swift */,
+				D34E6E0E2A57DB4900CE29D0 /* ChallengeViewController.swift */,
 				D3A347462A4046C5000DA27B /* Assets.xcassets */,
 				D3A347482A4046C5000DA27B /* LaunchScreen.storyboard */,
 				D3A3474B2A4046C5000DA27B /* Info.plist */,
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3A347582A404D70000DA27B /* UIView+.swift in Sources */,
+				D34E6E0F2A57DB4900CE29D0 /* ChallengeViewController.swift in Sources */,
 				D3A347422A4046C4000DA27B /* FirstViewController.swift in Sources */,
 				D3A3473E2A4046C4000DA27B /* AppDelegate.swift in Sources */,
 				D3A3475B2A405ABF000DA27B /* SecondViewController.swift in Sources */,
