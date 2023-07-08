@@ -10,7 +10,13 @@ import UIKit
 
 import SnapKit
 
-final class SearchViewController: UIViewController {
+final class SearchViewController: UIViewController, UICollectionViewDelegate {
+    
+    private var dummyCase = CatrgoryImage.dummy() {
+        didSet {
+            self.categoryArticleCollectionView.reloadData()
+        }
+    }
     
     lazy var titleLabel: UILabel = {
         let label = UILabel()
@@ -39,7 +45,7 @@ final class SearchViewController: UIViewController {
     
     lazy var categoryArticleScrollView: UIScrollView = {
         let scrollView = UIScrollView()
-        scrollView.backgroundColor = .systemMint
+        scrollView.backgroundColor = UIColor(red: 0.084, green: 0.084, blue: 0.092, alpha: 1)
         scrollView.isScrollEnabled = true
         scrollView.showsVerticalScrollIndicator = false
         return scrollView
@@ -47,17 +53,19 @@ final class SearchViewController: UIViewController {
     
     lazy var contentView: UIView = {
         let view = UIView()
-        view.backgroundColor = .yellow
+        view.backgroundColor = UIColor(red: 0.084, green: 0.084, blue: 0.092, alpha: 1)
         return view
     }()
-
+    
     lazy var categoryArticleCollectionView: UICollectionView = {
-        let layout = flowLayout() // define your layout
+        let layout = flowLayout()
         let collectionView = UICollectionView(frame: .zero, collectionViewLayout: flowLayout())
-        collectionView.backgroundColor = .red
+        collectionView.backgroundColor = UIColor(red: 0.084, green: 0.084, blue: 0.092, alpha: 1)
+        collectionView.showsVerticalScrollIndicator = false
+        collectionView.showsHorizontalScrollIndicator = false
         return collectionView
     }()
-
+    
     public override func viewDidLoad() {
         super.viewDidLoad()
         // MARK: - 컴포넌트 설정
@@ -81,18 +89,20 @@ final class SearchViewController: UIViewController {
 private extension SearchViewController {
     func setUI() {
         view.backgroundColor = UIColor(red: 0.084, green: 0.084, blue: 0.092, alpha: 1)
+        categoryArticleCollectionView.register(SearchCollectionViewCell.self, forCellWithReuseIdentifier: SearchCollectionViewCell.identifier)
+        categoryArticleCollectionView.delegate = self
+        categoryArticleCollectionView.dataSource = self
     }
     
     func setHierarchy() {
         view.addSubviews(titleLabel, subtitleLabel, categoryArticleCollectionLabel, categoryArticleScrollView)
-           categoryArticleScrollView.addSubview(contentView)
-           contentView.addSubview(categoryArticleCollectionView)
+        categoryArticleScrollView.addSubview(contentView)
+        contentView.addSubview(categoryArticleCollectionView)
     }
     
     func setLayout() {
         titleLabel.snp.makeConstraints { make in
-//            make.top.equalTo(view.safeAreaLayoutGuide)
-            make.top.equalToSuperview().inset(125)
+            make.top.equalTo(view.safeAreaLayoutGuide)
             make.leading.equalToSuperview().inset(20)
         }
         subtitleLabel.snp.makeConstraints { make in
@@ -109,9 +119,9 @@ private extension SearchViewController {
             make.bottom.equalToSuperview()
         }
         contentView.snp.makeConstraints { make in
-                make.edges.equalTo(categoryArticleScrollView)
-                make.width.equalTo(categoryArticleScrollView)
-            }
+            make.edges.equalTo(categoryArticleScrollView)
+            make.width.equalTo(categoryArticleScrollView)
+        }
         categoryArticleCollectionView.snp.makeConstraints { make in
             make.edges.equalTo(categoryArticleScrollView)
             make.height.equalTo(478)
@@ -131,5 +141,21 @@ private extension SearchViewController {
     
     func setDelegate() {
         
+    }
+}
+
+extension SearchViewController: UICollectionViewDataSource {
+    
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return dummyCase.count
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: SearchCollectionViewCell.identifier, for: indexPath) as? SearchCollectionViewCell else {
+            print("으악")
+            return UICollectionViewCell()
+        }
+        cell.configureCell(dummyCase[indexPath.item])
+        return cell
     }
 }

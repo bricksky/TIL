@@ -18,6 +18,8 @@
 		D3A347562A40473D000DA27B /* Then in Frameworks */ = {isa = PBXBuildFile; productRef = D3A347552A40473D000DA27B /* Then */; };
 		D3A347582A404D70000DA27B /* UIView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A347572A404D70000DA27B /* UIView+.swift */; };
 		D3A3475B2A405ABF000DA27B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A3475A2A405ABF000DA27B /* SecondViewController.swift */; };
+		D3EEB57A2A5989A6003663CC /* SearchCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EEB5792A5989A6003663CC /* SearchCollectionViewCell.swift */; };
+		D3EEB57C2A5996BF003663CC /* CategoryImageStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EEB57B2A5996BF003663CC /* CategoryImageStruct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		D3A3474B2A4046C5000DA27B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D3A347572A404D70000DA27B /* UIView+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+.swift"; sourceTree = "<group>"; };
 		D3A3475A2A405ABF000DA27B /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		D3EEB5792A5989A6003663CC /* SearchCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCollectionViewCell.swift; sourceTree = "<group>"; };
+		D3EEB57B2A5996BF003663CC /* CategoryImageStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryImageStruct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +77,8 @@
 				D3A3475A2A405ABF000DA27B /* SecondViewController.swift */,
 				D34E6E0E2A57DB4900CE29D0 /* ChallengeViewController.swift */,
 				D353BBFC2A594A1A00DF52C7 /* SearchViewController.swift */,
+				D3EEB5792A5989A6003663CC /* SearchCollectionViewCell.swift */,
+				D3EEB57B2A5996BF003663CC /* CategoryImageStruct.swift */,
 				D3A347462A4046C5000DA27B /* Assets.xcassets */,
 				D3A347482A4046C5000DA27B /* LaunchScreen.storyboard */,
 				D3A3474B2A4046C5000DA27B /* Info.plist */,
@@ -160,10 +166,12 @@
 			files = (
 				D3A347582A404D70000DA27B /* UIView+.swift in Sources */,
 				D353BBFD2A594A1A00DF52C7 /* SearchViewController.swift in Sources */,
+				D3EEB57C2A5996BF003663CC /* CategoryImageStruct.swift in Sources */,
 				D34E6E0F2A57DB4900CE29D0 /* ChallengeViewController.swift in Sources */,
 				D3A347422A4046C4000DA27B /* FirstViewController.swift in Sources */,
 				D3A3473E2A4046C4000DA27B /* AppDelegate.swift in Sources */,
 				D3A3475B2A405ABF000DA27B /* SecondViewController.swift in Sources */,
+				D3EEB57A2A5989A6003663CC /* SearchCollectionViewCell.swift in Sources */,
 				D3A347402A4046C4000DA27B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
