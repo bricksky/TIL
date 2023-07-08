@@ -65,6 +65,7 @@ final class ChallengeViewController: UIViewController {
         view.trackTintColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1)
         view.clipsToBounds = true
         view.layer.cornerRadius = 10
+        view.setProgress(0.75, animated: true)
         return view
     }()
 
@@ -95,15 +96,10 @@ private extension ChallengeViewController {
     }
     
     func setHierarchy() {
-        view.addSubview(lionImage)
-    
-        view.addSubview(levelLabel)
-        view.addSubview(lionLabel)
+        view.addSubviews(nicknameLabel, dayLabel, lionImage,lionLabelBehindImage, levelLabel, lionLabel, progressView)
     }
     
     func setLayout() {
-        view.addSubviews(nicknameLabel, dayLabel, lionImage,lionLabelBehindImage, levelLabel, lionLabel, progressView)
-        
         nicknameLabel.snp.makeConstraints { make in
             make.top.equalTo(view.safeAreaLayoutGuide)
             make.leading.equalToSuperview().inset(20)
