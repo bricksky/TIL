@@ -3,6 +3,7 @@
 
 ## 🍎 Swift 
 ### Grammer
+
 - [옵셔널](https://grave-paint-a3c.notion.site/Optional-72e98340d26541d2a5aee556ec8fd311)
 - [컬렉션 타입](https://grave-paint-a3c.notion.site/942642f62a3245ff8e87a45a293fa507?pvs=4)
 - [구조체](https://grave-paint-a3c.notion.site/struct-a4c3c735350b48e090a28de1f2111736)
@@ -33,7 +34,6 @@
 - [튜플](https://grave-paint-a3c.notion.site/2444c63c6b9441488c26c3c72c6568a2?pvs=4)
 - [메모리 상에서 함수의 동작 순서](https://grave-paint-a3c.notion.site/75a1f8674708474689b19cecedb5e4fb)
 
-
 ### UI Kit
 - [tableView(ViewForHeaderInSection)](https://grave-paint-a3c.notion.site/tableView-_-viewForHeaderInSection-f88659f3550f462393ad7b6aa93d884d)
 - [forHeaderFooterViewReuseIdentifier](https://grave-paint-a3c.notion.site/forHeaderFooterViewReuseIdentifier-686950072d5e4fafb698d45d88cb107a)
@@ -43,7 +43,6 @@
 - [Scroll View : 쌓고 넣고!](https://grave-paint-a3c.notion.site/Scroll-View-8a48591fd6434435bc4cfaec92761c75)
 - [UITextView에 Placeholder 올리기](https://grave-paint-a3c.notion.site/UITextView-Placeholder-c2afc01084e541af8c467f8ce4632ecb)
 - [toggle() 을 활용한 버튼 클릭 이벤트](https://grave-paint-a3c.notion.site/toggle-4125332ae06a4fe283d127d2dd4b4bcf?pvs=4)
-
 
 ### Article
 - [메모리 관리 및 저장방식 이해하기: 값 타입과 참조 타입 비교](https://grave-paint-a3c.notion.site/815b7cd41ea542218db53e3b687fe6d7)
@@ -60,6 +59,16 @@
 - [TVING 뷰 #3](https://grave-paint-a3c.notion.site/TVING-3-eafd3ac2f7ab41c4a001f6e88ae71b03)
 
 
+## 🍉 C++
+- [C++ 시작](https://skydh1214.tistory.com/entry/1-C-%EC%8B%9C%EC%9E%91)
+- [타입 (변수,상수)](https://skydh1214.tistory.com/entry/2-%ED%83%80%EC%9E%85)
+- [타입 (기본 타입,타입 변환)](https://skydh1214.tistory.com/entry/C-%ED%83%80%EC%9E%85-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-%ED%83%80%EC%9E%85-%EB%B3%80%ED%99%98)
+- [연산자](https://skydh1214.tistory.com/entry/C-%EC%97%B0%EC%82%B0%EC%9E%90)
+
+
+## 🌊 Algorithm
+- [#11720 / 아스키 코드 값을 활용한 문자와 숫자 변환](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
+
 
 ## 🦍 Github 
 - [1-1. 깃이 어려운이유와 용어](https://grave-paint-a3c.notion.site/2-1-1-e8c36b73481d47c09440cde3e5655b50)
@@ -74,15 +83,3 @@
 - [4-1. origin & upstream](https://grave-paint-a3c.notion.site/2-4-1-origin-upstream-6a7c927bbd6e458886b28d9f2ef899c2?pvs=4)
 - [4-2. clone, fetch, pull](https://grave-paint-a3c.notion.site/2-4-2-clone-fetch-pull-5af2c251775b4f3eba77b20eb385beac?pvs=4)
 - [4-3. Github issue](https://grave-paint-a3c.notion.site/2-4-3-Github-issue-bef35c240daf4702b69208a9584a4853?pvs=4)
-
-## 🌊 Algorithm
-- [#11720 / 아스키 코드 값을 활용한 문자와 숫자 변환](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
-
-## 🍉 C++
-- [C++ 시작](https://skydh1214.tistory.com/entry/1-C-%EC%8B%9C%EC%9E%91)
-- [타입 (변수, 상수)](https://skydh1214.tistory.com/entry/2-%ED%83%80%EC%9E%85)
-- [타입 (기본 타입, 타입 변환)](https://skydh1214.tistory.com/entry/C-%ED%83%80%EC%9E%85-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-%ED%83%80%EC%9E%85-%EB%B3%80%ED%99%98)
-
-
-
-
