@@ -78,6 +78,9 @@
 ## 🌊 Algorithm
 - [#11720 / 아스키 코드 값을 활용한 문자와 숫자 변환](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
 
+## 🍉 C++
+- [C++ 시작](https://skydh1214.tistory.com/entry/1-C-%EC%8B%9C%EC%9E%91)
+
 
 
 
