@@ -67,8 +67,10 @@
 
 
 ## 🌊 Algorithm
-- [#11720 / 아스키 코드 값을 활용한 문자와 숫자 변환](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
+- [#11720](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
+- [#120806](https://skydh1214.tistory.com/entry/PS-120806%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EB%82%98%EB%88%97%EC%85%88)
 
+  
 
 ## 🦍 Github 
 - [1-1. 깃이 어려운이유와 용어](https://grave-paint-a3c.notion.site/2-1-1-e8c36b73481d47c09440cde3e5655b50)
