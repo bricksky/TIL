@@ -71,6 +71,9 @@
 - [Chapter 00 알아두면 쓸 데 있는 자료구조와 알고리즘](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8-%EB%8D%B0-%EC%9E%88%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 
+## 컴퓨터 구조
+- [Chapter 01 컴퓨터 구조 시작하기](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-01-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+
 
 ## Algorithm
 - [#11720](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
