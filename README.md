@@ -1,7 +1,7 @@
 ![심야아요 배너](https://user-images.githubusercontent.com/61109660/167799338-ab43eea4-8396-4f9b-be2f-99c57d9b2982.png)
 > 딱 한 가지만 지킨다. 평일 중 매일 1가지의 TIL을 기록하고 자정이 되면 그 내용을 공유한다. 
 
-## 🍎 Swift 
+## Swift 
 ### Grammer
 
 - [옵셔널](https://grave-paint-a3c.notion.site/Optional-72e98340d26541d2a5aee556ec8fd311)
@@ -59,7 +59,7 @@
 - [TVING 뷰 #3](https://grave-paint-a3c.notion.site/TVING-3-eafd3ac2f7ab41c4a001f6e88ae71b03)
 
 
-## 🍉 C++
+## C++
 - [C++ 시작](https://skydh1214.tistory.com/entry/1-C-%EC%8B%9C%EC%9E%91)
 - [타입 (변수,상수)](https://skydh1214.tistory.com/entry/2-%ED%83%80%EC%9E%85)
 - [타입 (기본 타입,타입 변환)](https://skydh1214.tistory.com/entry/C-%ED%83%80%EC%9E%85-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-%ED%83%80%EC%9E%85-%EB%B3%80%ED%99%98)
@@ -67,15 +67,18 @@
 - [제어문](https://skydh1214.tistory.com/entry/C-%EC%A0%9C%EC%96%B4%EB%AC%B8)
 
 
+## 자료구조
+- [Chapter 00 알아두면 쓸 데 있는 자료구조와 알고리즘](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8-%EB%8D%B0-%EC%9E%88%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 
-## 🌊 Algorithm
+
+## Algorithm
 - [#11720](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
 - [#120806](https://skydh1214.tistory.com/entry/PS-120806%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EB%82%98%EB%88%97%EC%85%88)
 - [#120807](https://skydh1214.tistory.com/entry/PS-120807%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
   
 
-## 🦍 Github 
+## Github 
 - [1-1. 깃이 어려운이유와 용어](https://grave-paint-a3c.notion.site/2-1-1-e8c36b73481d47c09440cde3e5655b50)
 - [1-2. 현실 예시로 보는 Git 파일 관리 방식](https://grave-paint-a3c.notion.site/2-1-2-Git-af705e99725d4d6492c77f44fa95ba3f)
 - [1-3. 깃의 3가지 영역 4가지 상태](https://grave-paint-a3c.notion.site/2-1-3-3-4-5479e2a7cef74e4c99d6abbad38d27ec)
