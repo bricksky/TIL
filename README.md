@@ -58,6 +58,9 @@
 - [TVING 뷰 #2](https://grave-paint-a3c.notion.site/TVING-2-7d37e7a0cb8a46fb886dfbae9bb04387)
 - [TVING 뷰 #3](https://grave-paint-a3c.notion.site/TVING-3-eafd3ac2f7ab41c4a001f6e88ae71b03)
 
+## HIG
+- [Human Interface Guidelines을 공부해보자](https://skydh1214.tistory.com/entry/HIG-Human-Interface-Guidelines%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B4%EC%9E%90)
+
 
 ## C++
 - [C++ 시작](https://skydh1214.tistory.com/entry/1-C-%EC%8B%9C%EC%9E%91)
