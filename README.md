@@ -76,7 +76,7 @@
 - [Chapter 00 알아두면 쓸 데 있는 자료구조와 알고리즘](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8-%EB%8D%B0-%EC%9E%88%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [Chapter 01 리스트(리스트ADT,링크드 리스트)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter01-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8ADT%EB%A7%81%ED%81%AC%EB%93%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8)
 - [Chapter 01 리스트(더블 링크드 리스트,환형 링크드 리스트)](https://skydh1214.tistory.com/entry/Chapter-01-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%8D%94%EB%B8%94-%EB%A7%81%ED%81%AC%EB%93%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8%ED%99%98%ED%98%95-%EB%A7%81%ED%81%AC%EB%93%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8)
-
+- [Chapter 02 스택(스택ADT, 배열로 구현하는 스택)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-02-%EC%8A%A4%ED%83%9D%EC%8A%A4%ED%83%9DADT-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EC%8A%A4%ED%83%9D)
 
 
 
