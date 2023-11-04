@@ -88,8 +88,9 @@
 - [#11720](https://grave-paint-a3c.notion.site/ab52fc246dd4416f864b7e9baa991f6f)
 - [#120806](https://skydh1214.tistory.com/entry/PS-120806%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EB%82%98%EB%88%97%EC%85%88)
 - [#120807](https://skydh1214.tistory.com/entry/PS-120807%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
+- [#120810](https://skydh1214.tistory.com/entry/PS-120810%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 - [#120820](https://skydh1214.tistory.com/entry/PS-120820-%EB%82%98%EC%9D%B4-%EC%B6%9C%EB%A0%A5)
-  
+
 
 ## Github 
 - [1-1. 깃이 어려운이유와 용어](https://grave-paint-a3c.notion.site/2-1-1-e8c36b73481d47c09440cde3e5655b50)
