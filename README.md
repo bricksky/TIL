@@ -70,6 +70,9 @@
 - [타입 (기본 타입,타입 변환)](https://skydh1214.tistory.com/entry/C-%ED%83%80%EC%9E%85-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-%ED%83%80%EC%9E%85-%EB%B3%80%ED%99%98)
 - [연산자](https://skydh1214.tistory.com/entry/C-%EC%97%B0%EC%82%B0%EC%9E%90)
 - [제어문](https://skydh1214.tistory.com/entry/C-%EC%A0%9C%EC%96%B4%EB%AC%B8)
+- [배열과 포인터 (1차원 배열,다차원 배열)](https://skydh1214.tistory.com/entry/C-%EB%B0%B0%EC%97%B4%EA%B3%BC-%ED%8F%AC%EC%9D%B8%ED%84%B01%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EB%8B%A4%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4)
+
+
 
 
 ## 자료구조
