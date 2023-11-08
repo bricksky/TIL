@@ -103,6 +103,9 @@
 - [#120830](https://skydh1214.tistory.com/entry/PS-120830%E2%80%85%EC%96%91%EA%BC%AC%EC%B9%98)  
 - [#120831](https://skydh1214.tistory.com/entry/PS-120831-%EC%A7%9D%EC%88%98%EC%9D%98-%ED%95%A9)
 - [#120898](https://skydh1214.tistory.com/entry/PS-120898%E2%80%85%ED%8E%B8%EC%A7%80)
+- [#120585](https://skydh1214.tistory.com/entry/PS-120585%E2%80%85%EB%A8%B8%EC%93%B1%EC%9D%B4%EB%B3%B4%EB%8B%A4%E2%80%85%ED%82%A4%E2%80%85%ED%81%B0%E2%80%85%EC%82%AC%EB%9E%8C)
+
+
 
 ## Github 
 - [1-1. 깃이 어려운이유와 용어](https://grave-paint-a3c.notion.site/2-1-1-e8c36b73481d47c09440cde3e5655b50)
