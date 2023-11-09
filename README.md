@@ -34,6 +34,9 @@
 - [튜플](https://grave-paint-a3c.notion.site/2444c63c6b9441488c26c3c72c6568a2?pvs=4)
 - [메모리 상에서 함수의 동작 순서](https://grave-paint-a3c.notion.site/75a1f8674708474689b19cecedb5e4fb)
 
+
+
+
 ### UI Kit
 - [tableView(ViewForHeaderInSection)](https://grave-paint-a3c.notion.site/tableView-_-viewForHeaderInSection-f88659f3550f462393ad7b6aa93d884d)
 - [forHeaderFooterViewReuseIdentifier](https://grave-paint-a3c.notion.site/forHeaderFooterViewReuseIdentifier-686950072d5e4fafb698d45d88cb107a)
@@ -43,6 +46,9 @@
 - [Scroll View : 쌓고 넣고!](https://grave-paint-a3c.notion.site/Scroll-View-8a48591fd6434435bc4cfaec92761c75)
 - [UITextView에 Placeholder 올리기](https://grave-paint-a3c.notion.site/UITextView-Placeholder-c2afc01084e541af8c467f8ce4632ecb)
 - [toggle() 을 활용한 버튼 클릭 이벤트](https://grave-paint-a3c.notion.site/toggle-4125332ae06a4fe283d127d2dd4b4bcf?pvs=4)
+
+
+
 
 ### Article
 - [메모리 관리 및 저장방식 이해하기: 값 타입과 참조 타입 비교](https://grave-paint-a3c.notion.site/815b7cd41ea542218db53e3b687fe6d7)
@@ -58,11 +64,15 @@
 - [TVING 뷰 #2](https://grave-paint-a3c.notion.site/TVING-2-7d37e7a0cb8a46fb886dfbae9bb04387)
 - [TVING 뷰 #3](https://grave-paint-a3c.notion.site/TVING-3-eafd3ac2f7ab41c4a001f6e88ae71b03)
 
+
+
 ## HIG
 - [Human Interface Guidelines을 공부해보자](https://skydh1214.tistory.com/entry/HIG-Human-Interface-Guidelines%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [Accessbility 접근성](https://skydh1214.tistory.com/entry/HIG-Accessbility-%EC%A0%91%EA%B7%BC%EC%84%B1)
 - [App icons 앱 아이콘](https://skydh1214.tistory.com/entry/HIG-App-icons-%EC%95%B1-%EC%95%84%EC%9D%B4%EC%BD%98)
   
+
+
 
 ## C++
 - [C++ 시작](https://skydh1214.tistory.com/entry/1-C-%EC%8B%9C%EC%9E%91)
@@ -108,6 +118,8 @@
 - [#120831](https://skydh1214.tistory.com/entry/PS-120831-%EC%A7%9D%EC%88%98%EC%9D%98-%ED%95%A9)
 - [#120898](https://skydh1214.tistory.com/entry/PS-120898%E2%80%85%ED%8E%B8%EC%A7%80)
 - [#120585](https://skydh1214.tistory.com/entry/PS-120585%E2%80%85%EB%A8%B8%EC%93%B1%EC%9D%B4%EB%B3%B4%EB%8B%A4%E2%80%85%ED%82%A4%E2%80%85%ED%81%B0%E2%80%85%EC%82%AC%EB%9E%8C)
+- [#120816](https://skydh1214.tistory.com/entry/PS-120816-%ED%94%BC%EC%9E%90-%EB%82%98%EB%88%A0-%EB%A8%B9%EA%B8%B0%EF%BC%883%EF%BC%89)
+
 
 
 
