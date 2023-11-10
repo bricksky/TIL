@@ -119,6 +119,7 @@
 - [#120898](https://skydh1214.tistory.com/entry/PS-120898%E2%80%85%ED%8E%B8%EC%A7%80)
 - [#120585](https://skydh1214.tistory.com/entry/PS-120585%E2%80%85%EB%A8%B8%EC%93%B1%EC%9D%B4%EB%B3%B4%EB%8B%A4%E2%80%85%ED%82%A4%E2%80%85%ED%81%B0%E2%80%85%EC%82%AC%EB%9E%8C)
 - [#120816](https://skydh1214.tistory.com/entry/PS-120816-%ED%94%BC%EC%9E%90-%EB%82%98%EB%88%A0-%EB%A8%B9%EA%B8%B0%EF%BC%883%EF%BC%89)
+- [#120819](https://skydh1214.tistory.com/entry/PS-120819-%EC%95%84%EC%9D%B4%EC%8A%A4-%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8)
 
 
 
