@@ -70,7 +70,7 @@
 - [Human Interface Guidelines을 공부해보자](https://skydh1214.tistory.com/entry/HIG-Human-Interface-Guidelines%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [Accessbility 접근성](https://skydh1214.tistory.com/entry/HIG-Accessbility-%EC%A0%91%EA%B7%BC%EC%84%B1)
 - [App icons 앱 아이콘](https://skydh1214.tistory.com/entry/HIG-App-icons-%EC%95%B1-%EC%95%84%EC%9D%B4%EC%BD%98)
-  
+- [Branding 브랜딩](https://skydh1214.tistory.com/entry/HIG-Branding-%EB%B8%8C%EB%9E%9C%EB%94%A9)  
 
 
 
