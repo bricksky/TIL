@@ -82,7 +82,7 @@
 - [제어문](https://skydh1214.tistory.com/entry/C-%EC%A0%9C%EC%96%B4%EB%AC%B8)
 - [배열과 포인터 (1차원 배열,다차원 배열)](https://skydh1214.tistory.com/entry/C-%EB%B0%B0%EC%97%B4%EA%B3%BC-%ED%8F%AC%EC%9D%B8%ED%84%B01%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EB%8B%A4%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4)
 - [배열과 포인터 (포인터의 개념,포인터의 연산, 메모리의 동적 할당)](https://skydh1214.tistory.com/entry/C-%EB%B0%B0%EC%97%B4%EA%B3%BC-%ED%8F%AC%EC%9D%B8%ED%84%B0%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%9D%98-%EA%B0%9C%EB%85%90%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%9D%98-%EC%97%B0%EC%82%B0-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%9D%98-%EB%8F%99%EC%A0%81-%ED%95%A0%EB%8B%B9)
-
+- [문자열](https://skydh1214.tistory.com/entry/C-%EB%AC%B8%EC%9E%90%EC%97%B4)
 
 
 ## 자료구조
