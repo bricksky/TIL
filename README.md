@@ -104,7 +104,7 @@
 - [Chapter 01 컴퓨터 구조 시작하기](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-01-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [Chapter 02 데이터](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-02-%EB%8D%B0%EC%9D%B4%ED%84%B0)
 - [Chapter 03 명령어](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-03-%EB%AA%85%EB%A0%B9%EC%96%B4)
-
+- [Chapter 04 CPU의 작동원리](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-04-CPU%EC%9D%98-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC)
 
 
 
