@@ -160,8 +160,10 @@
   - [#120903](https://skydh1214.tistory.com/entry/PS-120903%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EC%9C%A0%EC%82%AC%EB%8F%84)
   - [#120847](https://skydh1214.tistory.com/entry/PS-120847%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%EF%BC%881%EF%BC%89)
   - [#120906](https://skydh1214.tistory.com/entry/PS-120906-%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0)
+ 
+- ### 프로그래머스 [Lv. 1]
   - [#12944](https://skydh1214.tistory.com/entry/PS-12944-%ED%8F%89%EA%B7%A0-%EA%B5%AC%ED%95%98%EA%B8%B0)
-
+  - [#87389](https://skydh1214.tistory.com/entry/PS-87389%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%E2%80%851%EC%9D%B4%E2%80%85%EB%90%98%EB%8A%94%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)
 
 
 <br>
