@@ -122,6 +122,10 @@
   - [Chapter 02 스택(링크드 리스트로 구현하는 스택,스택의 응용)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-02-%EC%8A%A4%ED%83%9D%EB%A7%81%ED%81%AC%EB%93%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EC%8A%A4%ED%83%9D%EC%8A%A4%ED%83%9D%EC%9D%98-%EC%9D%91%EC%9A%A9)
   - [Chapter 03 큐](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-03-%ED%81%90)
   - [Chapter 04 트리(트리ADT,이진트리)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-04-%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%A6%ACADT%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC)
+  - [Chapter 04 트리(수식트리,분리집합)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-04-%ED%8A%B8%EB%A6%AC%EC%88%98%EC%8B%9D%ED%8A%B8%EB%A6%AC%EB%B6%84%EB%A6%AC%EC%A7%91%ED%95%A9)
+
+
+
 
 <br>
 <br>
