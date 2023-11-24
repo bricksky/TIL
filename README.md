@@ -126,7 +126,7 @@
   - [Chapter 03 큐](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-03-%ED%81%90)
   - [Chapter 04 트리(트리ADT,이진트리)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-04-%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%A6%ACADT%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC)
   - [Chapter 04 트리(수식트리,분리집합)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-04-%ED%8A%B8%EB%A6%AC%EC%88%98%EC%8B%9D%ED%8A%B8%EB%A6%AC%EB%B6%84%EB%A6%AC%EC%A7%91%ED%95%A9)
-
+  - [Chapter 05 정렬](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-05-%EC%A0%95%EB%A0%AC)
 
 
 
