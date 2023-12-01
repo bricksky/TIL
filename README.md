@@ -131,7 +131,10 @@
   - [Chapter 04 트리(수식트리,분리집합)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-04-%ED%8A%B8%EB%A6%AC%EC%88%98%EC%8B%9D%ED%8A%B8%EB%A6%AC%EB%B6%84%EB%A6%AC%EC%A7%91%ED%95%A9)
   - [Chapter 05 정렬](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-05-%EC%A0%95%EB%A0%AC)
   - [Chapter 06 탐색(순차 탐색,이진 탐색)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-06-%ED%83%90%EC%83%89%EC%88%9C%EC%B0%A8-%ED%83%90%EC%83%89%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89)
+  - [Chapter 06 탐색(이진 탐색 트리,레드 블랙 트리)](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-06-%ED%83%90%EC%83%89%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%ED%8A%B8%EB%A6%AC%EB%A0%88%EB%93%9C-%EB%B8%94%EB%9E%99-%ED%8A%B8%EB%A6%AC)
+ 
 
+  
 
 <br>
 <br>
