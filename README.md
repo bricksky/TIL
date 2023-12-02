@@ -147,7 +147,7 @@
   - [Chapter 03 명령어](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-03-%EB%AA%85%EB%A0%B9%EC%96%B4)
   - [Chapter 04 CPU의 작동원리](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-04-CPU%EC%9D%98-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC)
   - [Chapter 05 CPU 성능 향상 기법](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-05-CPU-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-%EA%B8%B0%EB%B2%95)
-
+  - [Chapter 06 메모리와 케시 메모리](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-06-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80-%EC%BC%80%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC)
 
 
 <br>
