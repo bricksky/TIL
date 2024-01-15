@@ -144,6 +144,7 @@
   - [Chapter 09 그래프](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-09-%EA%B7%B8%EB%9E%98%ED%94%84)
   - [Chapter 10 문자열 탐색](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-10-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%83%90%EC%83%89)
   - [Chapter 11 알고리즘 성능 분석](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-11-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%84%B1%EB%8A%A5-%EB%B6%84%EC%84%9D)
+  - [Chapter 12 분할 정복](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-12-%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5)
 
 
 <br>
