@@ -147,7 +147,7 @@
   - [Chapter 12 분할 정복](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-12-%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5)
   - [Chapter 13 동적 계획법](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-13-%EB%8F%99%EC%A0%81-%EA%B3%84%ED%9A%8D%EB%B2%95)
   - [Chapter 14 탐욕 알고리즘](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-14-%ED%83%90%EC%9A%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-
+  - [Chapter 15 백트래킹](https://skydh1214.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Chapter-15-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
 
 
 
