@@ -170,7 +170,7 @@
   - [Chapter 11 CPU 스케줄링](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-11-CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
   - [Chapter 12 프로세스 동기화](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-12-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94)
   - [Chapter 13 교착 상태](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-13-%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C)
-
+  - [Chapter 14 가상 메모리](https://skydh1214.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-Chapter-14-%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC)
 
 <br>
 <br>
