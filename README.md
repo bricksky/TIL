@@ -96,7 +96,7 @@
   - [Images 이미지](https://skydh1214.tistory.com/entry/HIG-Images-%EC%9D%B4%EB%AF%B8%EC%A7%80)  
   - [Immersive experiences 몰입 경험](https://skydh1214.tistory.com/entry/HIG-Immersive-experiences-%EB%AA%B0%EC%9E%85-%EA%B2%BD%ED%97%98)  
   - [Inclusion 포함](https://skydh1214.tistory.com/entry/HIG-Inclusion-%ED%8F%AC%ED%95%A8)  
-
+  - [Layout 레이아웃](https://skydh1214.tistory.com/entry/HIG-Layout-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83)  
 
 
 <br>
